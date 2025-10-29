@@ -77,7 +77,7 @@ const Contact = () => {
                     onChange={handleChange}
                     required
                     className="w-full pl-10 pr-4 py-3 bg-gray-800/80 border border-gray-700 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:border-pink-400 focus:ring-1 focus:ring-pink-400 transition-all"
-                    placeholder="your@email.com"
+                    placeholder="ritik505dev@gmail.com"
                   />
                 </div>
                 <div className="relative">

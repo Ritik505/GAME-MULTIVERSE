@@ -2,60 +2,60 @@
   "hash": "0cb73b6c",
   "configHash": "62808376",
   "lockfileHash": "fdd41854",
-  "browserHash": "7456dd62",
+  "browserHash": "45fecbc3",
   "optimized": {
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "715f84d1",
+      "fileHash": "37f3bac2",
       "needsInterop": true
     },
     "react-dom": {
       "src": "../../node_modules/react-dom/index.js",
       "file": "react-dom.js",
-      "fileHash": "f2c38a09",
+      "fileHash": "d6d11711",
       "needsInterop": true
     },
     "react/jsx-dev-runtime": {
       "src": "../../node_modules/react/jsx-dev-runtime.js",
       "file": "react_jsx-dev-runtime.js",
-      "fileHash": "98cda642",
+      "fileHash": "5d2b2ca8",
       "needsInterop": true
     },
     "react/jsx-runtime": {
       "src": "../../node_modules/react/jsx-runtime.js",
       "file": "react_jsx-runtime.js",
-      "fileHash": "d626399b",
+      "fileHash": "c942fc25",
       "needsInterop": true
-    },
-    "react-dom/client": {
-      "src": "../../node_modules/react-dom/client.js",
-      "file": "react-dom_client.js",
-      "fileHash": "e8686d4c",
-      "needsInterop": true
-    },
-    "react-router-dom": {
-      "src": "../../node_modules/react-router-dom/dist/index.js",
-      "file": "react-router-dom.js",
-      "fileHash": "95c67eba",
-      "needsInterop": false
     },
     "framer-motion": {
       "src": "../../node_modules/framer-motion/dist/es/index.mjs",
       "file": "framer-motion.js",
-      "fileHash": "01fe69b6",
+      "fileHash": "2a2eacaa",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "9ee4830c",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "f017143a",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "2b6f2567",
       "needsInterop": false
     },
     "web3": {
       "src": "../../node_modules/web3/lib/esm/index.js",
       "file": "web3.js",
-      "fileHash": "9ddec799",
-      "needsInterop": false
-    },
-    "react-icons/fa": {
-      "src": "../../node_modules/react-icons/fa/index.mjs",
-      "file": "react-icons_fa.js",
-      "fileHash": "22934759",
+      "fileHash": "b837965b",
       "needsInterop": false
     }
   },
