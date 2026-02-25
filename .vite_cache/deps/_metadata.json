@@ -1,61 +1,61 @@
 {
-  "hash": "0cb73b6c",
+  "hash": "2a2db7a2",
   "configHash": "62808376",
-  "lockfileHash": "fdd41854",
-  "browserHash": "45fecbc3",
+  "lockfileHash": "099acdbe",
+  "browserHash": "82f6d179",
   "optimized": {
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "37f3bac2",
+      "fileHash": "9ce7186e",
       "needsInterop": true
     },
     "react-dom": {
       "src": "../../node_modules/react-dom/index.js",
       "file": "react-dom.js",
-      "fileHash": "d6d11711",
+      "fileHash": "c2980700",
       "needsInterop": true
     },
     "react/jsx-dev-runtime": {
       "src": "../../node_modules/react/jsx-dev-runtime.js",
       "file": "react_jsx-dev-runtime.js",
-      "fileHash": "5d2b2ca8",
+      "fileHash": "f7effb57",
       "needsInterop": true
     },
     "react/jsx-runtime": {
       "src": "../../node_modules/react/jsx-runtime.js",
       "file": "react_jsx-runtime.js",
-      "fileHash": "c942fc25",
+      "fileHash": "a4e31b01",
       "needsInterop": true
     },
     "framer-motion": {
       "src": "../../node_modules/framer-motion/dist/es/index.mjs",
       "file": "framer-motion.js",
-      "fileHash": "2a2eacaa",
+      "fileHash": "2b2f7e62",
       "needsInterop": false
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "9ee4830c",
+      "fileHash": "9071de06",
       "needsInterop": true
     },
     "react-icons/fa": {
       "src": "../../node_modules/react-icons/fa/index.mjs",
       "file": "react-icons_fa.js",
-      "fileHash": "f017143a",
+      "fileHash": "ad93a30d",
       "needsInterop": false
     },
     "react-router-dom": {
       "src": "../../node_modules/react-router-dom/dist/index.js",
       "file": "react-router-dom.js",
-      "fileHash": "2b6f2567",
+      "fileHash": "6f8712c5",
       "needsInterop": false
     },
     "web3": {
       "src": "../../node_modules/web3/lib/esm/index.js",
       "file": "web3.js",
-      "fileHash": "b837965b",
+      "fileHash": "ce1cd366",
       "needsInterop": false
     }
   },
